@@ -131,3 +131,4 @@ dmypy.json
 
 # Data download
 data.txt
+config.py
