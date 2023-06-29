@@ -17,7 +17,7 @@ The objective is to experiment and create a functional prototype that can aid in
 For now, the quality of the answers is constrained to the data provided, and therefore, could provide inexact answers. This can be solved increasing the quality and range of the data, as well as tweaking LLM model parameters. 
 
 
-# Architecture and Process
+## Architecture and Process
 
 The following diagram depicts the process that the documents follow to be processed by the engine. 
 
