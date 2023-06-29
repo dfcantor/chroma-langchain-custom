@@ -21,5 +21,4 @@ For now, the quality of the answers is constrained to the data provided, and the
 
 The following diagram depicts the process that the documents follow to be processed by the engine. 
 
-![image](https://github.com/dfcantor/chroma-langchain-custom/assets/88911560/1f5f83e9-aed3-4ba4-b19f-d709b745936c)
-
+![Documentation for Chroma+LangChain+GPT Custom Markdown GPT](https://github.com/dfcantor/chroma-langchain-custom/assets/88911560/132ea0a9-2b55-4645-8ca2-3639c7f43487)
