@@ -15,3 +15,11 @@ The objective is to experiment and create a functional prototype that can aid in
 ## Limitations
 
 For now, the quality of the answers is constrained to the data provided, and therefore, could provide inexact answers. This can be solved increasing the quality and range of the data, as well as tweaking LLM model parameters. 
+
+
+# Architecture and Process
+
+The following diagram depicts the process that the documents follow to be processed by the engine. 
+
+![image](https://github.com/dfcantor/chroma-langchain-custom/assets/88911560/1f5f83e9-aed3-4ba4-b19f-d709b745936c)
+
